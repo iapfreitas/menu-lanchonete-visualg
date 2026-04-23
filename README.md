@@ -1,5 +1,4 @@
 # menu-lanchonete-visualg
-Novembro de 2025.
 
 # 🍔 Sistema de Lanchonete em VisuAlg [ Novembro de 2025 ].
 
